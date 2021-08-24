@@ -1,1 +1,0 @@
-# my_django_Project_one
